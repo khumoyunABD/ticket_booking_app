@@ -22,9 +22,6 @@ final theme = ThemeData().copyWith(
     titleLarge: GoogleFonts.robotoSerif(
       fontWeight: FontWeight.bold,
     ),
-    labelMedium: GoogleFonts.robotoSerif(
-      fontWeight: FontWeight.w100,
-    ),
   ),
 );
 
